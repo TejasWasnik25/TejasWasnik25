@@ -1,5 +1,5 @@
 # 💫 About Me:-
-Hi, I'm Tejas Wasnik 👋<br>A passionate PHP Backend Developer from India 🇮🇳<br><br>I specialize in building dynamic and scalable web applications using Core PHP and the CodeIgniter 3 framework. I enjoy working on real-world projects, solving backend logic problems, and optimizing database-driven applications.<br><br>Currently, I’m expanding my skill set by learning the Laravel framework to build more modern, secure, and efficient applications.<br><br>🔹 Backend Development with PHP<br>🔹 Working with CodeIgniter 3 (MVC Architecture)<br>🔹 REST API Development<br>🔹 Database Design & Optimization (MySQL)<br>🔹 Debugging & Performance Improvement
+Hi, I'm Tejas Wasnik 👋<br>A passionate PHP Backend Developer from India<br><br>I specialize in building dynamic and scalable web applications using Core PHP and the CodeIgniter 3 framework. I enjoy working on real-world projects, solving backend logic problems, and optimizing database-driven applications.<br><br>Currently, I’m expanding my skill set by learning the Laravel framework to build more modern, secure, and efficient applications.<br><br>🔹 Backend Development with PHP<br>🔹 Working with CodeIgniter 3 (MVC Architecture)<br>🔹 REST API Development<br>🔹 Database Design & Optimization (MySQL)<br>🔹 Debugging & Performance Improvement
 
 
 ## 🌐 Socials:
